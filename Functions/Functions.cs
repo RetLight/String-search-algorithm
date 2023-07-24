@@ -48,6 +48,7 @@ class Functions
         PATH = PATH.Replace("\\", "/");
         PATH = PATH + "/data/Archives/"+ user + "/" + filename;
         if(FilePATH.Contains(".pdf")){
+            PATH = PATH.Replace(".pdf",".txt");
             var PDF = new Document(FilePATH);
             PDF.Save(PATH);
             if(Utils.DeleteLines(PATH)){
@@ -63,6 +64,7 @@ class Functions
             return true;
         }
         else if(FilePATH.Contains(".docx")){
+            PATH = PATH.Replace(".docx", ".txt");
             var doc = new Document(FilePATH);
             doc.Save(PATH);
             if(Utils.DeleteLines(PATH)){

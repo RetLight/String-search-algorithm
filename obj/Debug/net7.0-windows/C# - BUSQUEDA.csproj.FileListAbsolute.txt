@@ -58,3 +58,33 @@ D:\UNIVERSIDAD\CICLO - 6\LENGUAJES DE PROGRAMACION\PROYECTO\C# - BUSQUEDA\C# - B
 D:\UNIVERSIDAD\CICLO - 6\LENGUAJES DE PROGRAMACION\PROYECTO\C# - BUSQUEDA\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.pdb
 D:\UNIVERSIDAD\CICLO - 6\LENGUAJES DE PROGRAMACION\PROYECTO\C# - BUSQUEDA\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.genruntimeconfig.cache
 D:\UNIVERSIDAD\CICLO - 6\LENGUAJES DE PROGRAMACION\PROYECTO\C# - BUSQUEDA\C# - BUSQUEDA\obj\Debug\net7.0-windows\ref\C# - BUSQUEDA.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\C# - BUSQUEDA.exe
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\C# - BUSQUEDA.deps.json
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\C# - BUSQUEDA.runtimeconfig.json
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\C# - BUSQUEDA.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\C# - BUSQUEDA.pdb
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\Aspose.PDF.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\Aspose.Words.Pdf2Word.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\Aspose.Words.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\SkiaSharp.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.csproj.AssemblyReference.cache
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C____BUSQUEDA.Historial.resources
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C____BUSQUEDA.Home.resources
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C____BUSQUEDA.Inicio.resources
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.csproj.GenerateResource.cache
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.AssemblyInfoInputs.cache
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.AssemblyInfo.cs
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.csproj.CoreCompileInputs.cache
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.csproj.CopyComplete
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\refint\C# - BUSQUEDA.dll
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.pdb
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\C# - BUSQUEDA.genruntimeconfig.cache
+D:\ULIMA\SEXO CICLO\PROYECTO\proy2\C# - BUSQUEDA\obj\Debug\net7.0-windows\ref\C# - BUSQUEDA.dll

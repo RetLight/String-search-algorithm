@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\CICLO - 6\\LENGUAJES DE PROGRAMACION\\PROYECTO\\C# - BUSQUEDA\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj": {}
+    "D:\\ULIMA\\SEXO CICLO\\PROYECTO\\proy2\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\CICLO - 6\\LENGUAJES DE PROGRAMACION\\PROYECTO\\C# - BUSQUEDA\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj": {
+    "D:\\ULIMA\\SEXO CICLO\\PROYECTO\\proy2\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\CICLO - 6\\LENGUAJES DE PROGRAMACION\\PROYECTO\\C# - BUSQUEDA\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj",
+        "projectUniqueName": "D:\\ULIMA\\SEXO CICLO\\PROYECTO\\proy2\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj",
         "projectName": "C# - BUSQUEDA",
-        "projectPath": "D:\\UNIVERSIDAD\\CICLO - 6\\LENGUAJES DE PROGRAMACION\\PROYECTO\\C# - BUSQUEDA\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj",
+        "projectPath": "D:\\ULIMA\\SEXO CICLO\\PROYECTO\\proy2\\C# - BUSQUEDA\\C# - BUSQUEDA.csproj",
         "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\CICLO - 6\\LENGUAJES DE PROGRAMACION\\PROYECTO\\C# - BUSQUEDA\\C# - BUSQUEDA\\obj\\",
+        "outputPath": "D:\\ULIMA\\SEXO CICLO\\PROYECTO\\proy2\\C# - BUSQUEDA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
