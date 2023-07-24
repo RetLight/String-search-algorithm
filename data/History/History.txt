@@ -1,0 +1,20 @@
+Renzo,Miserables,la,Fuerza Bruta,(10224 ocurrencias),6.0201
+Renzo,Miserables,la,Knuth-Morris-Pratt,(10224 ocurrencias),6.1284
+Renzo,Miserables,la,Boyer-Moore,(10224 ocurrencias),10.5041
+Renzo,mujercitas,la,Knuth-Morris-Pratt,(5172 ocurrencias),4.768
+Renzo,mujercitas,la,Fuerza Bruta,(5172 ocurrencias),2.8109
+Renzo,mujercitas,la,Knuth-Morris-Pratt,(5172 ocurrencias),2.2772
+Renzo,mujercitas,la,Boyer-Moore,(5172 ocurrencias),3.9306
+Renzo,Travesuras,la,Fuerza Bruta,(621 ocurrencias),0.4915
+Renzo,Travesuras,la,Knuth-Morris-Pratt,(621 ocurrencias),0.3506
+Renzo,Travesuras,la,Boyer-Moore,(621 ocurrencias),0.6357
+Renzo,Travesuras,la,Fuerza Bruta,(621 ocurrencias),0.9365
+Renzo,Travesuras,la,Knuth-Morris-Pratt,(621 ocurrencias),0.9302
+Renzo,Travesuras,la,Boyer-Moore,(621 ocurrencias),13.3694
+Renzo,mujercitas,la,Fuerza Bruta,(5172 ocurrencias),3.252
+Renzo,mujercitas,la,Knuth-Morris-Pratt,(5172 ocurrencias),4.4659
+Renzo,mujercitas,la,Boyer-Moore,(5172 ocurrencias),5.4108
+Renzo,Miserables,la,Fuerza Bruta,(10224 ocurrencias),7.7314
+Renzo,Miserables,la,Knuth-Morris-Pratt,(10224 ocurrencias),5.8026
+Renzo,Miserables,la,Boyer-Moore,(10224 ocurrencias),10.7036
+Renzo,Miserables,la,Boyer-Moore,(10224 ocurrencias),14.6063

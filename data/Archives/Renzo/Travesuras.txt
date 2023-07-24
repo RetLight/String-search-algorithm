@@ -1,0 +1,840 @@
+                     El juego literario en
+                 «Travesuras de la niña mala»
+                   de Mario Vargas Llosa
+
+                                                         Erwin Snauwaert
+                                                       HUBrussel/ KULeuven
+
+Resumen
+    En Travesuras de la niña mala Mario Vargas Llosa crea un diálogo
+sorprendente entre las corrientes literarias del ‘boom’ y del ‘pos-
+boom’. Concretamente, pone en marcha una finta al conferirle al
+texto una apariencia de novela sentimental, típica en las letras
+latinoamericanas del final del siglo XX, que paradójicamente resalta
+unas preocupaciones clave de la generación exitosa del ‘boom.’ Esto
+se traduce en el refinamiento técnico con el que se trata el espacio
+narrativo, en la elaboración del tema del exilio voluntario así como en
+el juego intertextual, que todos ponen de relieve la tensión entre
+realidad y ficción y la relevancia existencial de la vocación literaria.
+
+Palabras clave: Vargas Llosa, Travesuras de la niña mala, Boom,
+Posboom, realidad/ ficción, intertextualidad
+
+Abstract
+     In Travesuras de la niña mala Mario Vargas Llosa establishes a
+surprising dialogue between the Latin-American literary ‘boom’ and ‘postboom’
+movements. In appearance a sentimental novel, reminiscent of much ‘postboom’
+literature at the end of the twentieth century, Travesuras paradoxically puts
+forward some major issues of the successful ‘boom’ generation. This is shown in the
+novel’s technically refined handling of narrative space, in topics such as voluntary
+exile, and in intertextual references. All of this embodies the tension between
+reality and fiction and the existential relevance of literary authorship.
+
+Key words: Vargas Llosa, Travesuras de la niña mala, Boom/Postboom,
+reality/ fiction, intertextuality
+
+
+[Dialogía, 6, 2012 pp.1-22]
+                                    2
+
+
+    Tanto en las crónicas literarias de lengua hispana como en
+las de lengua extranjera, la recepción de Travesuras de la niña mala
+resulta ser muy desigual. Varios analistas coinciden en que, en
+este libro, Mario Vargas Llosa sobre todo quería entregarse a
+una historia de amor y al concepto de “novela sentimental”
+(Lafuente, 2006: 50). No les falta la razón, dado que esta obra,
+más que ninguna otra, enfatiza la temática amorosa. Así, parece
+recordar La tía Julia y el escribidor, que en gran parte es el retrato
+autobiográfico de las peripecias sentimentales que precedieron
+el primer matrimonio del escritor peruano, o las elucubraciones
+acerca del sexo que se leen en el díptico Elogio de la madrastra y
+Los cuadernos de Don Rigoberto. Según algunos críticos, la
+aparición de ese tema poco usual en el autor encajaría en una
+tendencia que caracteriza las letras hispanoamericanas a partir
+de los años 90 en general1. La caída del muro de Berlín y el
+fin de la Guerra Fría subsecuente le quitaron considerable-
+mente la tensión política a la temática literaria e hicieron que
+esta se dirigiera cada vez más a la vida diaria, al amor y al rol
+de la mujer en la sociedad latinoamericana contemporánea
+(Henighan, 2009: 371).
+    Por otra parte, en Travesuras de la niña mala aparece también,
+aunque quizás de manera no tan evidente, un tema recurrente
+en la obra del autor: el de la literatura. En una de las entrevistas
+que dio a los pocos días de la publicación del libro, el propio
+Vargas Llosa dejó abierta la posibilidad de leerlo como «una
+alegoría de la inspiración literaria» (2006b: 2). Por eso, in-
+tentaremos demostrar en estas páginas cómo este enfoque
+«metaliterario», que ya ha sido sugerido por diferentes investi-
+
+    1 Shaw ya sitúa el origen de esta evolución, que considera como una de
+
+las características más evidentes del ‘posboom’, en la bisagra de los años
+sesenta y setenta. En aquel período, “los crímenes y masacres de los
+regímenes autoritarios desde Chile y Argentina hasta Centroamérica”
+hicieron que la visión “estática o circular” de la historia, propia de los
+escritores del “boom”, cediera el paso a una concepción “lineal y
+progresiva” que más bien encajaba en una tradición más “crítica” y “cívica
+de las letras hispanoamericanas” (2005: 270).
+                                     3
+
+
+gadores (Domínguez Castro, 2011: 373) pero que hasta la fecha
+carece de elaboración sistemática, permite esclarecer unos as-
+pectos clave del funcionamiento del texto. Esta lectura pasará
+por cinco etapas: en los primeros dos apartados, analizaremos
+respectivamente hasta qué punto la novela pone en evidencia su
+propio carácter literario apostando por una estructura técnica
+inédita en el autor y cómo aprovecha, a través de la temática del
+exilio, la dialéctica entre verdad y mentira que sustenta la obra
+global del autor. La tercera y la cuarta parte mostrarán cómo
+esta temática se cristaliza en un protagonista que, por su
+constitución atípica, pone de relieve a la generación del ‘boom’
+y, por su propia evolución y por el juego intertextual que a ella
+se asocia, insiste en naturaleza ‘literaria’ del texto. Termina-
+remos esbozando cómo la combinación de estos aspectos senti-
+mentales y literarios puede inducir una lectura de la novela
+como un vaivén entre dos corrientes literarias.
+
+1. El cosmopolitismo como técnica
+
+   En cuanto a técnica narrativa, Travesuras de la niña mala
+parece ser atípica en la obra varguiana. Conforme a su con-
+tenido que, como ya hemos dicho, aparentemente es de novela
+rosa, el relato se organiza de manera bastante sencilla: la
+narración autodiegética filtra todos los acontecimientos a través
+de las experiencias del narrador-protagonista y los organiza
+globalmente de manera lineal. Particularmente, salta a la vista
+que el acto narrativo deja desatendido el principio de «los vasos
+comunicantes»2 que estructura la mayoría de las novelas del
+autor. En esta ocasión, la dinámica del libro no procede de la
+imbricación de distintas líneas narrativas o de la alternancia de
+los puntos de vista, sino del ritmo impuesto por unos cortes
+temporales que cada vez corresponden con unos espacios
+
+    2 En palabras del autor, esta técnica consiste en “fundir en una unidad
+
+narrativa situaciones o datos que ocurren en un tiempo y/o espacio
+diferentes o que son de naturaleza distinta” (Vargas Llosa, 1971: 322).
+                                      4
+
+
+ciudadanos muy diversos. Así el lector sigue la trayectoria vital
+de Ricardo Somocurcio entre sus 35 y 55 años y, de paso, se
+sumerge en unos contextos políticos, sociales y culturales de
+diferentes metrópolis: Lima en los años 50, París en los 60,
+Londres en los 70 y Tokio y Madrid en los 803.
+    Precisamente este cosmopolitismo constituye uno de los
+aspectos más originales del libro. Por lo general, Vargas Llosa
+sitúa sus novelas en Perú (Shaw, 2005: 260) o, si no es el caso,
+como se da en La guerra del fin del mundo o La fiesta del Chivo,
+cuyos escenarios son respectivamente el sertão brasileño
+decimonónico y la República Dominicana de Trujillo, suele
+confinar la acción a un solo país. Mediante el presente juego
+con el espacio se estrena un nuevo principio estructurador,
+que, por lo tanto, llama la atención en el valor ‘poético’,
+técnico de la novela. Desde esta perspectiva, Travesuras de la
+niña mala no resulta ser, como la han tildado ciertos críticos,
+una novela que «no ofrece logros técnicos y expresivos»
+(Domínguez Castro, 2011: 365), sino un texto que trata de
+explotar otros recursos narrativos. Así, el autor parece
+perfeccionar el experimento que ha iniciado en El Paraíso en la
+otra esquina, donde las líneas narrativas dedicadas a Flora
+Tristán y Paul Gauguin pasan principalmente por Francia y
+Polinesia. Aplica el mismo principio en su novela siguiente El
+sueño del celta repartiendo la acción sobre el Congo belga, la
+Amazonía peruana e Irlanda. Además, en esta ocasión, los tres
+espacios confluyen temáticamente en la lucha por la liberación
+de este último país y hasta se mezclan, según el principio de
+los vasos comunicantes, con el destino de Roger Casement, su
+protagonista. De este modo, la variedad espacial puede ser
+considerada como un artificio formal que es sustituible y hasta
+compatible con las otras estrategias técnicas del autor, por lo
+
+   3 Domínguez Castro relaciona esta variedad espacial también con el afán
+de repasar “la vida y la trayectoria literaria”, que para Vargas Llosa se
+desarrollaron en muchas de las ciudades citadas. Para esta analista, semejante
+deseo sería típico en las obras de senectud (2011: 381).
+                                      5
+
+
+que se acaba poniendo de relieve en esta novela de fácil
+composición el refinamiento técnico que es propio de un texto
+de alto valor literario.
+    Esta capacidad artística no solo procede de la alternancia
+insospechada de los espacios sino también de la manera en la
+que estos se explotan. Efectivamente, es llamativa la precisión
+con la que se describen las ciudades en cuestión: más que de
+simples menciones de nombres o de vagas alusiones ambien-
+tales, se trata de retratos meticulosos, casi dignos de una guía
+turística, de barrios y calles, filtrados por la subjetividad del
+héroe. Este «realismo topográfico» (Collard, 2008: 348), no
+solo hace más palpables las vivencias de los personajes sino
+que, por la acumulación de detalles casi fotográficos, produce
+en el lector una sensación de vértigo, cada vez que este tiene
+que abandonar un ambiente con el que acababa de familia-
+rizarse para sumirse sorprendentemente en otro al comienzo
+de un capítulo nuevo.
+    Esta variedad geográfica se vuelve todavía más pertinente
+al aprovechar las posibilidades metafóricas escondidas en la
+carga intercultural que tienen estos espacios. Ya en las prime-
+ras páginas, el narrador-protagonista alude a unos prejuicios
+que existen entre Perú y su eterno rival Chile, un país que en
+los años 50 se calificaba de libertino y prefiguraba para él la
+moral parisina (Vargas Llosa, 2006a: 17). Aunque, en este caso,
+estas sensibilidades más bien son anecdóticas y solo ejempli-
+fican la osadía de la niña mala que desmiente su propia
+nacionalidad para darse por chilena4, en otras ocasiones ad-
+quirieren una significación más profunda. Así, la preocupación
+
+   4 Según Huertas Neri, (2011: 2) el nombre que la niña mala adoptó para
+
+cubrir su identidad chilena, Lily, podría referir a Lilith, la mujer que en la
+mitología hebraica precedió a Eva como primera esposa de Adán y que se
+consideraba como maléfica porque seducía irresistiblemente a los hombres.
+Esta naturaleza diabólica puede remitir tanto al hechizo amoroso al que la
+niña mala somete a Ricardo como a una capacidad literaria, ya que esta
+capacidad, según la poética de Vargas Llosa, procede del exorcismo de unos
+demonios personales (1983: 199).
+                                      6
+
+
+permanente por las condiciones meteorológicas y el mal
+humor de los franceses (2006a: 214) cobran mayor
+importancia escondiendo, al ser estos sus únicos temas de
+conversación posibles, un profundo desinterés en el otro.
+Igual que la superficialidad, el apresuramiento –«Los ingleses
+no tienen tiempo para la amistad.» (2006a: 137)– y el
+individualismo de los europeos, esta actitud está en las
+antípodas de «la amistad visceral a la sudamericana» (2006a:
+275). Por este camino, echa las bases de una «paranoia contra
+los inmigrantes» (2006a: 271) y acentúa también el aislamiento
+y la inconsistencia del héroe, un aspecto que se analizará más
+tarde.
+    Este registro intercultural se explota de manera ejemplar en
+el episodio que vive la niña mala en Tokio. Sucede que, a pesar
+de la marcada presencia japonesa en Perú, las culturas
+respectivas siguen siendo muy diferentes. En efecto, muchos
+estudios interculturales consideran las culturas latinas como
+«colectivistas» y «femeninas» (Hofstede y Hofstede, 2005: 73,
+115), o sea, propensas a valorar los contactos humanos –como
+ya se ha dado el caso en la amistad– y a moderar las ambiciones.
+En esto, se oponen diametralmente a la mentalidad japonesa,
+mucho más reservada y enfocada en la eficiencia. El contraste
+con la exuberancia y la ostentación mediterráneas (Vargas
+Llosa, 2006a: 173) se observa también en la figura de Salomón
+Toledano, el genial intérprete y amigo entrañable de Ricardo,
+que hunde su amor por la nipona Mitsuko exactamente por no
+acatar la debida reserva. De la misma manera, al convertirse en
+japonesa bajo el nombre de Kuriko y al prestarse a los abusos
+del perverso y despótico Fukuda5, la niña mala desmiente al
+máximo sus propios orígenes y muestra hasta qué punto es
+inalcanzable para el protagonista, que sigue adhiriéndose a los
+
+    5 Esta violación también puede ser interpretada como un arreglo de
+
+cuentas con Velasco Alvarado y Fujimori, ambos presidentes de aspecto
+oriental que, según el autor, serían altamente responsables de la degradación
+del Perú (Quintana Tejera, 2007: 6).
+                                         7
+
+
+valores peruanos. Encerrando esta dimensión metafórica, la
+globalización del espacio termina conectando con un tema am-
+pliamente elaborado en la literatura latinoamericana: el exilio y
+su enajenamiento correspondiente.
+
+2. El exilio y la mentira de la realidad
+
+    De hecho, el cosmopolitismo procede del exilio6 de los
+protagonistas que puede considerarse, tanto en su dimensión
+política como en sus implicaciones culturales, relacionadas con
+la producción literaria (Cymerman, 1993: 523-524). En cuanto a
+la primera acepción, resulta llamativo que el exilio, a pesar del
+proceso de distanciamiento que lógicamente presupone, no
+equivale a una huida incondicional de la patria. En este sentido,
+tanto Ricardo como la niña mala parecen ser representantes
+típicos de los exiliados peruanos, puesto que «no fueron
+obligados a emigrar por una dictadura» (Rose, 1998: 81) o sea,
+por una represión física o cultural, como era el caso, por
+ejemplo, para muchos rioplatenses en los años setenta del siglo
+XX. Este exilio voluntario les permite a los peruanos volver
+con regularidad a su terruño y mantener con él una relación de
+«aller-retour»7 (Rose, 1998: 84) y hace que en esta novela los
+
+    6 Cymerman señala que el carácter político distingue el exilio del término
+
+‘inmigración’, que más bien se refiere a migraciones impuestas por la
+coyuntura económica (1993: 523). Al tratar el exilio cultural, que atañe a la
+problemática de la producción y la recepción literarias en el extranjero,
+opone la ‘literatura del exilio’ a ‘la literatura en el exilio’. Mientras la primera
+engloba a las obras que tratan el exilio como tema, la segunda se centra en
+las que se escriben físicamente en el destierro (1993: 524). En la presente
+novela apuntan ambas variantes, dado que, como se verá a continuación, se
+termina enfocando la situación del protagonista como escritor en París, una
+vocación que en su dificultosa evolución se nutre exactamente de la temática
+del exilio como aparece de forma muy variada a través de la figura de la niña
+mala.
+    7 A continuación,. Rose señala que, si hay algún factor represivo, sobre
+
+todo es de orden cultural. A este respecto, menciona la sequía intelectual en
+Lima, que se ilustra en la escasez de editoriales y que puede motivar la
+                                      8
+
+
+«personajes viajen, se instalen en el extranjero y sin embargo
+mantengan al Perú como punto de referencia por excelencia»
+(Villena Vega, 2007: 2). Esta situación les permite a los per-
+sonajes adoptar «una doble perspectiva de distancia y cercanía,
+de cosmopolitismo y arraigamiento» (Kohut, 1998: 14), como
+consta en las continuas alusiones a la política peruana -el golpe
+de Velasco (Vargas Llosa, 2006a: 150-151), el segundo mandato
+de Belaúnde Terry (2006a: 159, 289), el primer gobierno de
+Alán García (2006a: 340) y el terrorismo de Sendero Luminoso
+(2006a: 160, 292-293)- que le sirven al héroe de trasfondo para
+sus aventuras en el extranjero.
+   Sin embargo, la relación con la patria parece ser muy distinta
+para los dos protagonistas. En el caso de la niña mala, unas
+incursiones en la historia reciente del Perú le hacen descubrir al
+lector un clima de «pobreza, racismo, discriminación, poster-
+gación, frustraciones múltiples» (Vargas Llosa, 2006a: 77) que
+precisamente motiva su rebeldía y sus continuos cambios de
+identidad8. En la entrevista que tiene el narrador con el padre
+de la chica, el genial constructor de rompeolas Arquímedes,
+aparece que esta miseria, inherente a Lima y El Callao, es la
+clave –o, si se quiere, el ‘eureka’ para el yo- de las múltiples
+travesuras. Esta insatisfacción explica pues por qué la niña
+mala, cuyo nombre verdadero –Otilia– se revela en el mismo
+fragmento, resulta ser más difícil de dominar que las aguas del
+Pacífico y por qué finalmente se transforma en una trota-
+mundos irresponsable.
+
+partida de escritores en ciernes al extranjero (1998: 81). Por lo tanto, en su
+análisis de Permiso para vivir, una colección de crónicas de Alfredo Bryce
+Echenique, otro autor peruano que vivió mucho tiempo en Europa, Rose
+insiste en las implicaciones literarias del exilio que exactamente permite
+“recuperar la palabra” (1998: 85).
+    8 En la óptica de Ruiz, estos cambios son una manifestación de lo que
+
+llama lo ‘hiperreal’ (2009: 151), que consiste en una superposición de unas
+representaciones que cada vez resultan ser falsas. Siguiendo a Baudrillard,
+interpreta la continua alteración como “simulacro” global que abarca las
+diferentes tentativas de representar a la protagonista como otros tantos
+simulacros (2009: 148).
+                                 9
+
+
+
+
+         […] cuando era todavía una mocosita […] tomó ya la
+         temeraria decisión de salir adelante, […] de dejar de ser
+         Otilita la hija de la cocinera y el constructor de rompeolas,
+         de huir para siempre de esa trampa, cárcel y maldición que
+         era para ella el Perú, y partir lejos, y ser rica […] aunque
+         para ello tuviera que hacer las peores travesuras, correr los
+         riesgos más temibles […] hasta convertirse en una
+         mujercita fría, desamorada, calculadora, cruel. (Vargas
+         Llosa, 2006a: 323)
+
+    La insistencia en el contexto político y social putrefacto re-
+actualiza la imagen apocalíptica de un Perú ‘jodido’, como está
+descrita respectivamente en Conversación en la Catedral o Historia
+de Mayta. En estas novelas, la realidad peruana, por ser corrupta
+y mal organizada, se vive como si fuera una gran mentira. En
+consecuencia, los periplos de la chica pueden ser considerados
+como denuncia de semejante falacia y, por lo mismo, con-
+stituyen una autorreferencia a la obra global del autor. A esta
+altura, el personaje despierta reminiscencias a unos protago-
+nistas conocidos que resultan ser víctimas de unas reglas
+sociales arbitrarias (Gamboa en La ciudad y los perros, Lituma en
+La Tía Julia y el escribidor), de un fanatismo demoledor (Panta-
+león, muchos personajes de La guerra del fin del mundo) o, más
+tarde, de una violencia incontrolable e inexplicable (Kristal,
+1998: 196) que se expresa en el terrorismo (Lituma en los Andes)
+o en la dictadura (Trujillo en La fiesta del Chivo). Por la depra-
+vación política, económica y social vigente, la niña mala parece
+haber cortado definitivamente los lazos con su terruño y pone
+de relieve, siguiendo la lógica de Vargas Llosa, el carácter
+«mentiroso» de la realidad peruana.
+    Mientras la niña mala se exilia ‘por lo bajo’, repudiando al
+Perú y tratando de quedarse en el extranjero por todos los
+medios posibles, Ricardo lo hace ‘por lo alto’ (Villena Vega,
+2007: 8). Más que por rencor hacia su tierra, el yo, que como
+huérfano (Vargas Llosa, 2006a: 62), ya está enajenado
+‘ontológicamente’ de sus raíces, es movido por la mera atrac-
+                                      10
+
+
+ción de la Ciudad Luz. En su caso, la emigración parece ser
+inspirada sobre todo por la lectura de Hugo, Verne y Dumas9
+en la que Francia aparece como «el país de la cultura» (Vargas
+Llosa, 2006a: 16) donde la vida es «más rica, más alegre, más
+hermosa y más todo que en cualquier otra parte» (2006a: 15).
+Por su admiración a unos escritores franceses y por no repudiar
+la realidad peruana, al ejemplo de lo que hace la niña mala,
+Ricardo parece canalizar su exilio más en dirección de lo
+cultural que de lo político. Por su falta de contacto con lo real
+abarata su abandono de la patria y convierte su exilio en una
+simulación irresponsable (Teeuwen, 2004: 292)10, en un tipo de
+viaje mental. Mediante este desprendimiento gratuito, le es
+posible al héroe tener en el exilio una visión doble de su
+terruño, desde adentro y desde afuera (Hanne, 2004: 5). Esta
+perspectiva ambivalente parece aprovechar la vertiente cultural
+incluida en el exilio, como está definida por Cymerman (1993:
+523), al relacionar la mentira de la realidad a la que se opone la
+niña mala con una elaboración metafórica que deja traslucir
+cada vez más sus implicaciones literarias.
+
+3. Un protagonista atípico frente al ‘boom’
+
+   El carácter irresponsable del exilio de Ricardo se comprueba
+en el hecho de que este no acopla a su estancia en la capital
+francesa ninguna ambición y que se contenta con una vida
+
+   9  Huertas Neri se detiene en el parentesco entre la temática de Travesuras
+y la de La dame aux camélias, de Alejandro Dumas hijo (2011: 371), que
+escenifica a Margarita, una cortesana que se da a diferentes amores y que
+finalmente muere de tisis.
+    10 En su artículo Teeuwen adopta las posiciones de Ian Buruma (2001),
+
+que en su artículo The romance of exile protesta contra la facilidad con la que
+los intelectuales postcolonialisatas suelen considerarse, desde sus tierras de
+adopción europeas y latinoamericanas, como exiliados sin haber tenido que
+experimentar la desdicha del destierro. A esta altura, Buruma entiende la
+nostalgia que procede del alejamiento, típica de esta variante metafórica,
+pero no la simulación del exilio que muchas veces acarrea y que solo sirve
+para desacreditar la experiencia de los exiliados de verdad.
+                                11
+
+
+tranquila de funcionario. Mediante este conformismo, se opone
+a los clásicos protagonistas varguianos que suelen vivir
+dominados por una idea (Gamboa, Pantaleón, Mayta,
+Gauguin…), hasta tal punto que pocas veces se dan cuenta de
+sus propios límites o se sienten culpables de sus fracasos
+(Kristal, 1998: 198). Precisamente esta falta de aspiraciones más
+elevadas le impide a Ricardo superar las barreras interculturales
+ya comentadas e integrarse de lleno en «la Francia de sus
+amores». Esta «vida estéril» (Vargas Llosa, 2006a: 156) se
+acentúa aún más en el último capítulo al contrastar con el
+dinamismo de Marcella, la mujer italiana con la que vive en
+Madrid y que, ella sí, se entrega en cuerpo y alma a su gran
+pasión, el teatro. Por el resto, la existencia insignificante de
+Ricardo se relaciona íntimamente con la profesión de intérprete
+que ejerce ante la UNESCO en París, como lo formula el
+políglota Salomón Toledano -¿Cómo no ver en este nombre las
+referencias a la célebre escuela de traductores de Toledo y al
+aspecto bíblico, ‘salomónico’ de su juicio- de manera muy
+elocuente:
+
+         […] Salomón Toledano, un día, en la sala de intérpretes de
+         la Unesco, nos interpeló así: “Si, de repente, nos sentimos
+         morir y nos preguntamos: ¿Qué huella dejaremos de
+         nuestro paso por esa perrera?, la respuesta honrada sería:
+         Ninguna, no hemos hecho nada, salvo hablar por otros.
+         ¿Qué significa, si no, haber traducido millones de palabras
+         de las que no recordamos una sola, porque ninguna merecía
+         ser recordada?” […]. (Vargas Llosa, 2006a: 152)
+
+Por ser tan huidiza, la actividad de intérprete funciona como
+metáfora para el protagonista, que termina siendo «alguien que
+[…] sólo es cuando no es» (Vargas Llosa, 2006a: 141) y que no
+ha podido sacarle ningún provecho a su exilio, ya que se ve
+retratado definitivamente como en un «ser sin raíces» (2006a:
+300) tanto en el país de acogida como en la vida misma.
+                               12
+
+
+    Sin embargo, cuanto más avanza la novela, tanto más
+Ricardo reorienta sus actividades: paulatinamente abandona la
+interpretación simultánea para perfeccionar el ruso, con el fin
+de traducir los cuentos de Chéjov. A pesar de la escasa remu-
+neración que le brinda este quehacer, el héroe encuentra en él
+una sustancia y una delicadeza inesperadas que le permiten salir
+de lo anodino y sentirse «menos fantasmal que como in-
+térprete» (Vargas Llosa, 2006a: 156). El desinterés literario de
+Ricardo parece ser pues una finta: la intensidad creciente con la
+que se dedica a la traducción literaria delata, como lo profetiza
+otra vez Salomón Toledano, que «no se resignará jamás a
+desaparecer en su oficio» de intérprete y lo encamina para ser
+«un aspirante a escritor» (2006a: 156-157). Esta vocación
+literaria latente se verifica en los chismes de que el héroe, de
+joven, ya escribía poesía a escondidas (2006a: 92) y hasta se
+observa en los términos en que están descritos sus sentimientos
+por la niña mala. Esta alienta sus piropos y avances románticos,
+los califica de «huachafos» –«Sigue, sigue con tus huachaferías,
+huachafito» (2006a: 192)–, o sea teatrales y al mismo tiempo
+vulgares, y termina asociándolos a unas «cosas de las tele-
+novelas» (2006a:174). Remitiendo a una predisposición ficticia
+del yo, estas expresiones estereotipadas y fílmicas podrían ser
+concebidas como unas manifestaciones primerizas y torpes de
+un escritor en ciernes.
+    Por su predestinación a la literatura, el protagonista sobre-
+pasa su presunta dejadez y hace que su exilio evidencie in-
+directamente a la generación literaria del ‘boom’. Por el cambio
+comentado, Ricardo le añade «capital cultural» a su estancia en
+París y se adjudica el mismo entronque que estos autores que
+lejos de su casa, a través del aislamiento, trataban de ver la
+realidad latinoamericana con más perspicacia (Teeuwen, 2004:
+294). Canjeando la disimulación por un deseo de creación, este
+antihéroe finalmente rinde homenaje a los representantes del
+‘boom’ que reaccionaron contra la «política cultural euro-
+centrista» con la que Latinoamérica «ignoró a menudo a sus
+escritores para reconocer tan solo a los extranjeros o a los
+                                      13
+
+
+escritores nacionales inspirados por la cultura extranjera» y, por
+eso se exiliaron «para encontrar la consagración» (Cymerman,
+1993: 526). De esta forma, Ricardo paradójicamente funciona
+de parangón con la cantidad de intelectuales latinoamericanos
+que en los años 60 y 70 vinieron a París para lanzar su carrera
+literaria (Vargas Llosa, 2006a: 53) y que encontraron en este
+alejamiento el «distanciamiento» necesario para considerar su
+país de origen con más objetividad y estimular, por esas vías, su
+propio proceso creativo (Cymerman, 1993: 525). Es como si,
+rememorando a esos escritores, Ricardo se preparara a seguir su
+ejemplo y a aprovechar de lleno los recursos existenciales con-
+tenidos en la ficción (Vargas Llosa, 2006a: 327).
+
+4. La educación literaria: la mentira literaria y la
+intertextualidad
+
+   Efectivamente, por esa referencia al boom, la evolución de
+Ricardo en el exilio conecta con la otra acepción de la mentira
+incluida en la palabra ‘ficción’. De esta forma, las apariciones
+volátiles y la naturaleza siempre escurridiza de la niña mala
+podrían ser interpretadas como un «arquetipo motivador de la
+escritura»11 (Gallego, 1998: 612). Sus fechorías y sus embustes,
+en efecto, parecen simbolizar las fantasías, lo irreal, lo exage-
+rado, los desarrollos inesperados, de los que consisten forzosa-
+mente las obras ficticias. Ya de pequeña, la chica se pasó el
+tiempo «imitando a los mexicanos, a los chilenos, a los argen-
+
+   11  En su análisis de la obra novelística de Alfredo Bryce Echenique,
+Gallego entiende este exilio cultural y la escritura que se realiza en él como
+una tentativa autorreflexiva para afirmarse. En el caso de los protagonistas
+de Bryce, esta autorreflexión procede de la nostalgia. Esta les funciona a los
+héroes de único pero ilusorio recurso para recuperar la compostura después
+de que, en la madre patria, las tradiciones se hayan perdido y de que el exilio
+no les haya brindado una vida satisfactoria (1998: 619, 620). Para la presente
+novela, la escritura lleva también a la recomposición de la persona de
+Ricardo en la medida en la que le permite procesar y ordenar la realidad de la
+que, tanto él como la niña mala, se escaparon.
+                               14
+
+
+tinos» (Vargas Llosa, 2006a: 320) y, más tarde, le aconseja sin
+rodeos al héroe que aprenda a «disimular» (2006a: 122). Para
+colmo, mezcla realidad y fantasía en sus historias inventándose
+simplemente los episodios dolorosos del encarcelamiento en
+Lagos y de las violaciones por Fukuda. Estas supercherías le
+permiten «vivir en esa ficción (…) para sentirse más segura,
+menos amenazada, que vivir en la verdad» (2006a: 267).
+Vengándose de esta forma de la realidad hostil, ‘mentirosa’, del
+Perú, la niña mala se adueña plenamente, según la lógica
+varguiana, de un principio que «aumenta su vida» y le permite
+dar con «la verdad que expresan las mentiras de las ficciones»
+(Vargas Llosa, 1990: 12).
+   Esta interpretación sobre todo se alimenta del capítulo «El
+niño sin voz», en el que la niña mala ‘cura’ a Yilal, el hijo
+vietnamita mudo de los vecinos de Ricardo, haciéndole con-
+testar una de sus muchas llamadas. La compenetración de estos
+dos personajes se motiva en el trauma que ambos vivieron –el
+muchacho parece haberse quedado mudo por los horrores de la
+guerra en su país y la niña mala fue humillada en Japón– y es
+tan intensa que se llevan como uña y carne. En presencia de la
+niña mala, los progresos lingüísticos del chico son cada vez más
+espectaculares (Vargas Llosa, 2006a: 246) y siempre son re-
+compensados por unos soldaditos de plomo, los talismanes de
+Salomón Toledano, el exponente de la artesanía verbal. De este
+modo, la evolución del niño llega a constituir una puesta en
+abismo –o, en la terminología de Vargas Llosa, una «caja china»
+(Kobylecka, 2006: 55)– de la situación del narrador: igual que le
+confirió a Yilal el don de la palabra, la niña mala debería ser
+capaz de funcionarle al yo de inspiración literaria.
+   En consecuencia, la subyugación amorosa de Ricardo podría
+ser leída como símbolo de la premura que siente el que lleva en
+sí el germen de una expresión artística. El juego continuo de
+atracción y de rechazo, de escapadas y de retornos, impuesto
+por la chica, muestra hasta qué punto el narrador la necesita.
+Esta esclavitud apunta a unas metáforas ampliamente elabo-
+radas. Así, el cementerio de mascotas de Asnières, que visitan
+                                 15
+
+
+juntos los protagonistas, es un obvio reflejo de la fidelidad
+perruna de Ricardo y el mundo hípico de Newmarket asocia a
+la niña mala sea con la imagen de un caballo indomable, sea con
+la de una de jineta que maneja a su guisa su dócil montura
+(Villena Vega, 2007: 6-7). La interdependencia compulsiva de
+ambos personajes ya se anuncia en una de las primeras citas, en
+la que la niña mala increpa a Ricardo por haberla hecho esperar
+–«Tú a mí no me dejas plantada, pichurichi» (Vargas Llosa,
+2006a: 134)– y se confirma cuando los psiquiatras consideran al
+héroe como la única persona capaz de curarle a la chica el
+trauma de Tokio (2006a: 267). Igual que el narrador, por más
+que se esfuerce, no consigue olvidar a la niña mala, tampoco
+sabrá reprimir la vocación literaria que lleva en sí. Por las
+mismas vías, se puede aclarar la dominancia sexual de la niña
+mala: por su «frialdad» egoísta y sus imperativos en la cama, se
+convierte en un principio absoluto, un tipo de ‘médica’
+(Quintana Tejera, 2007: 4) que le da a Ricardo instrucciones
+para descubrir unos secretos y encantos en un nivel más sub-
+limado, el de la literatura. Este proceso se lexicaliza al final del
+libro cuando la niña mala confiesa haberle ofrecido al narrador,
+a través de su relación caótica y de su amor siempre inacabado,
+el «tema para una novela» (Vargas Llosa, 2006a: 375).
+    Este estímulo termina siendo «la travesura más fascinante»
+de la protagonista (Huertas Neri, 2011: 5) y su pertinencia lite-
+raria resulta reforzada por varias referencias intertextuales. Así,
+estas últimas palabras de la novela, las pronuncia la niña mala,
+enferma de cáncer y pocos días antes de su muerte, en su casita
+de Sète. Esta mudanza a última hora al Sur de Francia –la única
+excepción al espacio exclusivamente ciudadano del libro– se
+vincula explícitamente con el poema Le cimetière marin de Paul
+Valéry y da cuenta del acceso de Ricardo a las letras (Collard,
+2008: 347). El mismo valor se desprende de la escena en la que
+un mendigo le salva la vida al narrador cuando este, después de
+la enésima partida de la niña mala, quiere tirarse al agua desde el
+pont Mirabeau. Este puente remite al título del conocido poema
+de Apollinaire que recuerda el aspecto fugaz del amor y que,
+                                 16
+
+
+poco después, también se reproduce textualmente (Vargas
+Llosa, 2006a: 280, 298). El rescate físico presagia que Ricardo
+se salvará una segunda vez, en un sentido más sublimado, al
+abrazar la literatura. Más tarde, el narrador remite a esta
+evolución, trazando un paralelismo con las actividades de
+Marcella, a quien conoce en una representación de Le Bourgeois
+gentilhomme de Molière (2006a: 348). Este apelativo engloba la
+personalidad de Ricardo al combinar los apóstrofes que le
+reserva la niña mala: un «niño bueno» (2006a: 375) (gentil-
+homme), como contraparte necesaria de su propia persona, y
+«huachafo», o sea cursi, burgués (bourgeois) por sus piropos
+que lo encaminan hacia la letras. Además, el acceso definitivo a
+la literatura, la «transformación» que experimenta el narrador,
+también está lexicalizado en el título Metamorfosis (2006a: 356), el
+espectáculo basado en una traducción de Borges en el que
+Marcella está trabajando cuando ya se termina su relación.
+    Es llamativo, a este respecto, que el último capítulo, en el
+que se perfilan la mayoría de las referencias descritas, se abra
+con un sorprendente salto en el tiempo (2006a: 330). Mientras
+las últimas páginas del penúltimo capítulo, una descripción de la
+vida tranquila que llevan juntos Ricardo y la niña mala en París,
+parecen preparar al lector para un final feliz, ocurre todo lo
+contrario. La parte final «Marcella en Lavapiés» sitúa a Ricardo
+en Madrid, en compañía de otra mujer, y narra la ruptura
+inesperada con la niña mala, de manera indirecta, mediante
+un analepsis. Este golpe de teatro, recuerda el epílogo de
+L’éducation sentimentale de Flaubert en el que, después de que se
+rompiera la intensa amistad entre Sénécal y Frédéric, reaparece
+este último en sus solitarios viajes por el mundo, tras un
+enorme blanco temporal. Esta referencia intertextual se hace
+todavía más pertinente ya que se cristaliza en la propia persona
+de la niña mala que, al casarse con un rico diplomático parisino,
+se convierte en Madame Arnoux, la homónima de la
+inalcanzable heroína de la novela Flaubert (2006a: 64). Super-
+poniéndose a un personaje tan emblemático, la niña mala
+rebautiza para Ricardo la educación sentimental en una «edu-
+                                17
+
+
+cación literaria» y, por esta pronunciada capacidad alegórica,
+fortalece el impacto literario de sus travesuras descrito en los
+niveles anteriores.
+
+5. ¿Un juego entre «boom» y «posboom»?
+
+    Si por su orientación sentimental esta novela parece
+inscribirse en la corriente del ‘posboom’, la lectura de una
+relación amorosa tormentosa como metáfora de una iniciación
+literaria que se realiza a trancas y barrancas recuerda más bien a
+unos preceptos del ‘boom’, por lo que el texto finalmente
+puede interpretarse como un juego entre dos movimientos en la
+narrativa latinoamericana reciente. Sin querer ahondar en las
+muchas cuestiones definitorias, generacionales o terminológicas
+al respecto y generalizando quizás demasiado, se puede alegar
+que el ‘posboom’ «crea una especie de realismo nuevo para dar
+cuenta de una realidad nueva (…) a un público menos elitista»
+(Shaw, 2005: 373). Por este deseo los escritores del ‘posboom’
+se oponen a los del ‘boom’, que parecen haber «cuestionado
+(…) radicalmente (…) la capacidad de conocer la realidad y/o
+la capacidad del lenguaje de expresarla» (Shaw, 2005: 264).
+Presentándose como novela de amor y llevando el senti-
+mentalismo a sus últimas consecuencias Travesuras de la niña
+mala, parece incorporarse en el ‘posboom’ en el que «[…] se
+recuperan viejos patrones narrativos – la narrativa histórica,
+policíaca, folletinesca, sentimental […], erótica no sólo por
+parte de los narradores más jóvenes sino incluso por los ya
+consagrados» (De la Fuente, 1999: 240).
+    El aspecto más intrínseco de la novela es que tras esta
+apariencia de novela rosa se pone en marcha una cuádruple
+finta, que cada vez refiere a la relevancia existencial del oficio
+de escritor y de unos procedimientos propios de la «alta litera-
+tura» tal como aparecían en muchas de las novelas totalizadoras
+del ‘boom’ (Shaw, 2005: 366). Primero, la soltura con la que se
+lee el texto aparentemente trivial hace suponer una sencillez
+técnica, que, sin embargo, resulta ser desmentida por el manejo
+                                 18
+
+
+sofisticado del espacio. Por la rápida alternancia de los escena-
+rios en los que se desarrolla la acción y la carga intercultural que
+les atribuye, Vargas Llosa establece un ambiente cosmopolita,
+que suele considerarse como característico para la generación
+del ‘boom’ y que él había dejado desatendido hasta entonces
+(Shaw, 2005: 263). Así, el autor se apunta subrepticiamente a
+cierto «experimentalismo técnico, que subordina lo ético a lo
+estético» que era consustancial de esa generación (Shaw, 2005:
+264). En segundo lugar, este cosmopolitismo enmarca los
+exilios voluntarios de los protagonistas pero, al mismo tiempo,
+por la globalización que supone, parece relativizar los motivos
+ideológicos del destierro (Teeuwen, 2004: 297). Esto se ilustra
+en el caso de Ricardo, cuyo exilio está desprovisto de motivos
+políticos y tan solo sirve para poner en evidencia la intensa
+actividad literaria que desplegó en París la laureada generación
+del ‘boom’. En tercer lugar, esta afinidad con la literatura se
+cristaliza en la transición de traductor a escritor que experi-
+menta el héroe y nos invita a entender la naturaleza ‘mentirosa’
+de la niña mala sobre todo en sus implicaciones ficticias. Insis-
+tiendo en el poder redentor de la ‘mentira literaria’, Travesuras de
+la niña mala abre el diálogo con muchas otras novelas del autor,
+como, por ejemplo, Historia de Mayta o El hablador que res-
+pectivamente presentan la mentira que es la «orgía» literaria
+(Vargas Llosa, 1975: 272), como único medio para acercarse a
+una realidad política inauténtica y como acto que condiciona la
+existencia misma de un pueblo. La misma temática asoma en la
+obstinación de Pedro Camacho, el legendario escritor de radio-
+teatros en La tía Julia y el escribidor, la novela en la que Vargas
+Llosa por primera vez insistió en el poder de la escritura y que,
+por lo mismo, desempeña una función de bisagra en su obra
+(Armas Marcelo, 2002: 316). Finalmente, estas reminiscencias a
+la práctica del propio autor culminan en unas referencias inter-
+textuales más amplias que incitan a leer las tribulaciones
+amorosas del héroe como metáfora del camino accidentado por
+el que suele pasar una vocación literaria.
+                                19
+
+
+6. Conclusión
+
+    Por estos artificios, la narración termina revelándose como
+profundamente paradójica. Ajustándose primero al código de la
+novela sentimental, primero parece alejarse de la literatura, para
+abrazarla después con mayor fuerza. Es como si, igual que su
+protagonista, el texto se exiliara primero a sí mismo de la
+literatura, para poder reivindicar a última hora y con más crite-
+rio el sitio que le corresponde. Siguiendo esta lógica el texto
+puede leerse como un tipo de polémica entre dos tendencias
+literarias. Por su aspecto de novela rosa implica el «regreso a
+una forma de realismo», propio del ‘posboom’, pero al socavar
+el sentimentalismo por un cuestionamiento de «los límites entre
+realidad y ficción […] que afecta a la esencia narrativa del
+relato» (De la Fuente, 1999: 265-266) se remonta a la narrativa
+del ‘boom’. De esta manera, Ricardo reúne la ligereza de la
+primera corriente en su deseo de vivir tranquilamente «entre los
+frondosos castaños de París» (Vargas Llosa, 2006a: 53) y el
+intelectualismo de la segunda en sus preocupaciones literarias y
+hace que el libro pueda leerse como un constante diálogo entre
+ellas. Por esta ambivalencia, su narración pone en marcha un
+juego literario por el que la novela definitivamente resulta ser
+tan “traviesa” como la propia niña mala.
+
+
+7. Referencias bibliográficas
+
+Armas Marcelo, Juan (2002): Vargas Llosa. El vicio de escribir.
+      Madrid, Alfaguara.
+Buruma, Ian (2001): «The romance of exile», New Republic, pp.
+      33-38.
+Collard, Patrick (2008): «El París de Mario Vargas Llosa», en R.
+      De Maeseneer, I. Jongbloet, L. Vangehuchten, A. Van
+      Hecke y J. Vervaeke, eds., El hispanismo omnipresente.
+      Antwerp, University Press, pp. 341-346.
+                               20
+
+
+Cymerman, Claude (1993): «La literatura hispanoamericana y el
+      exilio», Revista Iberoamericana LIX, 164-165, pp. 523-550.
+De la Fuente, José Luis (1999): «La narrativa del ‘post’ en
+      Hispanoamérica: una cuestión de límites», Anales de Lite-
+      ratura Hispanoamericana, 28, pp. 239-266.
+Del Toro, Alfonso (1991): «Postmodernidad y Latinoamérica
+      (con un modelo para la narrativa postmoderna)», Revista
+      Iberoamericana, LVII, 155-156, pp. 441-467.
+Domínguez Castro, María Esperanza (2011): «Vargas Llosa y
+      Las Travesuras de la niña mala, Gabriel García Márquez y
+      Memoria de mis putas tristes: ¿epígonos de sí mismos?»,
+      Anales de Literatura Hispanoamericana, 40, pp. 363-384.
+Gallego, Isabel (1998): «Alfredo Bryce Echenique en el fin de
+      siglo», Revista Iberoamericana, LXIV, 184-185, pp. 611-628.
+Hanne, Michael (2004): «Creativity and Exile: An Introduction»,
+      en M. Hanne, ed., Creativity and Exile. Amsterdam/ New
+      York, Rodopi, pp. 1-12.
+Henighan, Stephen (2009): «Nuevas versiones de lo femenino
+      en La Fiesta del Chivo, El paraíso en la otra esquina y
+      Travesuras de la niña mala», Hispanic Review, 77, 3, pp.
+      369-388.
+Hofstede, Geert. y Hofstede, Gert Jan. (2005): Cultures and
+      Organizations. Software of the Mind, London, Mc Graw-Hill.
+Huertas Neri, Raisacruz (2011): «¿Cuál es la travesura más
+      fascinante de la niña mala? Mario Vargas Llosa», Espéculo:
+      Revista de Estudios Literarios, 47, pp.1-7,
+      http://www.ucm.es/info/especulo/numero47/ninamala.
+      html.
+Kobylecka, Ewa (2006): «Mario Vargas Llosa: una realidad
+      desdoblada o el procedimiento de los vasos comuni-
+      cantes», Hipertexto, 4, pp. 50-64.
+Kohut, Karl (1998): «Literatura peruana hoy: crisis y creación»,
+      en K. Kohut, J. Morales Saraiva, S. V. Rose, eds., Lite-
+      ratura peruana hoy. Crisis y creación, Madrid-Frankfurt am
+      Main, Vervuert, pp. 11-20.
+                                21
+
+
+Kristal, Efraín (1998): Temptation of the Word. The Novels of Mario
+      Vargas Llosa. Nashville, Vanderbilt University Press.
+Lafuente, Fernando R. (2006): «Las máscaras del tiempo»,
+      Revista de libros, 118 , p. 50.
+Quintana Tejera, Luis (2007): «Seducción, erotismo y amor en
+      Travesuras de la niña mala de Mario Vargas Llosa»,
+      Espéculo: Revista de Estudios Literarios, 37, pp. 1-9,
+      http://www.ucm.es/info/especulo/numero37/seducci.h
+      tml.
+Rose, Sonia V. (1998): «Peruanos en el extranjero: el exilio en
+      Permiso para vivir de Alfredo Bryce Echenique», en K.
+      Kohut, J. Morales Saraiva, S. V. Rose eds., Literatura
+      peruana hoy. Crisis y creación, Madrid-Frankfurt am Main,
+      Vervuert, pp. 80-95.
+Ruiz, María Regina (2009): «Lo hiperreal en la novela
+      Travesuras de la niña mala, de Mario Vargas Llosa»,
+      Hipertexto, 9, pp. 147-152.
+Shaw, Donald L. (2005): Nueva narrativa hispanoamericana,
+      Madrid, Cátedra.
+Teeuwen, Rudolphus (2004): «Fading into Metaphor:
+      Globalization and the Disappearance of Exile», en M.
+      Hanne, ed., Creativity and Exile, Amsterdam/ New York:
+      Rodopi, pp. 283-298.
+Vargas Llosa, Mario (1971): Historia de un deicidio, Barcelona,
+      Seix Barral.
+––– (1975): La orgía perpetua. Flaubert y “Madame Bovary”,
+      Barcelona, Seix Barral.
+––– (1983): Contra viento y marea, Barcelona, Seix Barral.
+––– (1990): La verdad de las mentiras, Barcelona, Seix Barral.
+––– (2006a): Travesuras de la niña mala. Madrid: Alfaguara.
+––– (2006b): «Creo que soy algo fetichista» (entrevista), El
+      Comercio, pp.1-2,
+      http://elcomercio.pe/EdiciónImpresa/Html/2006-05-
+      25/impEntrevistas0511842.html.
+Villena Vega, Nataly (2007): «El cosmopolitismo y su
+      irradiación en ‘El paraíso en la otra esquina’ y ‘Travesuras
+                       22
+
+
+de la niña mala’ de Vargas Llosa», Espéculo: Revista de
+Estudios Literarios, 37, pp.1-10.
+http://www.ucm.es/info/especulo/numero37/cosmopo
+l.html.
+
